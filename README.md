@@ -88,6 +88,9 @@ You are welcome to contribute to the module. To develop, use the following comma
 
 ## Donations
 
-If this helped you in your endeavours and you feel like supporting the developer, feel free to donate some Nano:
+If you find this piece of software helpful, consider buying us a cup of coffe.
 
-`nano_1wmcgzbqgbyyawsto6t37sc6y7pkekpctzp7n3ay6pcxcy717p5g79rpfj7e`
+  `NYZO: id__80qi1DrCJZfcPPVeC83CgCX36SDN.StRhKYSeB-rrqr7z-_LShR7` 
+  
+  `BTC: bc1qsshn75ase5c66sjlfmefymw5dx8w384jvp4v0j` 
+###### Made with ♥ for the community
