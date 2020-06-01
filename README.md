@@ -53,16 +53,17 @@ const accounts = wallet.accounts(seed, from, to)
 ```javascript
 // The returned wallet JSON format is as follows. The mnemonic phrase will be undefined when importing with a seed.
 {
-    mnemonic: 'edge defense waste choose enrich upon flee junk siren film clown finish luggage leader kid quick brick print evidence swap drill paddle truly occur',
-    seed: '0dc285fde768f7ff29b66ce7252d56ed92fe003b605907f7a4f683c3dc8586d34a914d3c71fc099bb38ee4a59e5b081a3497b7a323e90cc68f67b5837690310c',
-    accounts: [
-        {
-            accountIndex: 0,
-            privateKey: '3be4fc2ef3f3b7374e6fc4fb6e7bb153f8a2998b3b3dab50853eabe128024143',
-            publicKey: '5b65b0e8173ee0802c2c3e6c9080d1a16b06de1176c938a924f58670904e82c4',
-            address: 'nano_1pu7p5n3ghq1i1p4rhmek41f5add1uh34xpb94nkbxe8g4a6x1p69emk8y1d'
-        }
-    ]
+  mnemonic: 'hole kiss mouse jacket also board click series citizen slight kite smoke desk diary rent mercy inflict antique edge invite slush athlete total brain',
+  seed: '1accdd4c25e06e47310d0c62c290ec166071d024352e003e5366e8ba6ba523f2a0cb34116ac55a238a886778880a9b2a547112fd7cffade81d8d8d084ccb7d36',
+  accounts: [
+    {
+      accountIndex: 0,
+      privateKey: '45498b388601bac4758dce54092449896ec2ffa041b9bfe96e30149bbd7ae1a7',
+      publicKey: '65cad42982c4af901fa562384390e049e4e687b500594ebe9dfd1dfdc5810dd6',
+      publicKeyAsNyzoString: 'id__86oaT2D2Pa~g7Ymze4egW4EBXFvT05CeMGV.7wV5xgVnqPGwR~g~',
+      privateKeyAsNyzoString: 'key_84m9zRz60sI4upVem0BBipCLNM~xgsD_YnWN59L.vL6E4xQKTySS'
+    }
+  ]
 }
 ```
 
