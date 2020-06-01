@@ -1,6 +1,6 @@
 {
 	"name": "nyzo-js",
-	"version": "1.2.1",
+	"version": "1.0.0",
 	"description": "Toolkit for Nyzo cryptocurrency",
 	"author": "Marco Solis <this.solis@ieee.org>",
 	"license": "MIT",
