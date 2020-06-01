@@ -7,8 +7,8 @@ The toolkit supports creating and importing wallets and encoding and decoding Ny
 
 ## Features
 
-* Generate wallets with a BIP32 mnemonic phrase
-* BIP39/44 private key derivation
+* Generate wallets with a BIP39 mnemonic phrase
+* BIP32/44 private key derivation
 * Import wallets with a mnemonic phrase or a seed
 * Runs in all web browsers and mobile frameworks built with Javascript
 * Validate addresses and mnemonic words
