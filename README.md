@@ -1,6 +1,5 @@
 # nyzo-js
 
-[![GitHub license](https://img.shields.io/github/license/ThreeDotsTech/nyzo-js)](https://github.com/ThreeDotsTech/nyzo-js/blob/master/LICENSE)
 
 Toolkit for Nyzo cryptocurrency allowing to create and manage acounts implementing BIP32, BIP39 and BIP 44.
 
